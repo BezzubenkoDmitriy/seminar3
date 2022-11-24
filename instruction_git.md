@@ -95,4 +95,7 @@ git это программа
 
     git checkout \<hash>
 
+    
+![отпуск](sea.jpg)
+
 
