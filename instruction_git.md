@@ -135,3 +135,6 @@ git это программа
 можно с помощью команды:
 
     git branch -d name branch
+
+   
+ ![фото](sabor.jpg)
